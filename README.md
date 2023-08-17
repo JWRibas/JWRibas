@@ -19,6 +19,6 @@ have my 💙
 
 
 
-📫 How to reach me: ![email.](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ribasvasconcelos.wr@gmail.com
+📫 How to reach me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/j-welington-ribas-jr-993632112)
+![email.](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](www.linkedin.com/in/j-welington-ribas-jr-993632112)
